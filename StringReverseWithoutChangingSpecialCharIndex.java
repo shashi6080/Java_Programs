@@ -2,7 +2,7 @@ package strings;
 
 import java.util.Scanner;
 /**
- * 1. Receive a sring from user having special characters
+ * 1. Receive a string from user having special character
  * 2. Reverse string such that special character position won't change but others will change
  * 3. Output such reversed string
  * @author shashidhar
